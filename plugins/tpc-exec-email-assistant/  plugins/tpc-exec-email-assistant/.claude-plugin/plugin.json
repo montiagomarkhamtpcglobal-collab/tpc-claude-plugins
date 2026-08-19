@@ -1,0 +1,7 @@
+  {
+    "name": "tpc-exec-email-assistant",
+    "version": "1.0.0",
+    "description": "Executive email & task assistant for TPC Global leaders — hourly reply drafting (never sends), task capture into Microsoft To Do, a calendar-aware timesheet, ownership filtering, learned corrections, and a morning brief. Bundles the assistant skill plus the three Power Automate flows and a setup checklist for per-person rollout.",
+    "author": { "name": "TPC Global" },
+    "keywords": ["email", "outlook", "microsoft-to-do", "tasks", "timesheet", "executive-assistant", "tpc-global"]
+  }
